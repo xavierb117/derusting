@@ -16,5 +16,15 @@ public class StringPractice {
 
     // Join all of the strings in the list together into a single string separated by commas
     // Use a built-in method to achieve this instead of using a loop
+
+    // Check whether two strings are equal
+
+    /*
+     * Reminder!
+     * 
+     * When comparing objects in Java we typically want to use .equals, NOT ==.
+     * 
+     * We use == when comparing primitives (e.g. int or char).
+     */
   }
 }
