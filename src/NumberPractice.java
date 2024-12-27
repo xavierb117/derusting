@@ -17,6 +17,8 @@ public class NumberPractice {
      * Reminder!
      * 
      * When dividing ints, the result is rounded down.
+     * Example: 
+     * 7 / 3 = 2 when performing int division
      */
 
   }

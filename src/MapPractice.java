@@ -28,12 +28,16 @@ public class MapPractice {
      * Usage tip!
      * 
      * Maps are great when you want a specific key to value mapping.
+     * Example: The key could be a person's name, and the value could be their phone number
      * 
      * However if your keys are simple ascending 0-indexed integers with no gaps
      * (0, 1, 2, 3, 4...) then an array or List is likely a better choice.
+     * Example: If you want to store the order of songs in a playlist.
      * 
      * If you're finding that you're just wanting to store unordered values and the keys
      * are unimportant, a Set may be a better choice.
+     * Example: If you want to hold the student ID numbers of everyone in a course,
+     * and you don't care about any ordering.
      */
   }
 }

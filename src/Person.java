@@ -1,3 +1,8 @@
+/*
+ * In this file you will follow the comments' instructions to complete
+ * the Person class.
+ */
+
 public class Person {
   // Declare a public String instance variable for the name of the person
   // Declare a private int instance variable for the age of the person
@@ -22,9 +27,9 @@ public class Person {
    * @param currentYear an int for the current year
    * @return The year the person was born
    */
+  // (create the instance method here)
 
 
-   
   public static void main(String[] args) {
     // Create an instance of Person
 
