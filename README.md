@@ -3,7 +3,7 @@
 
 This repository will be used to practice both your git and Java skills. DO NOT DOWNLOAD IT AS A ZIP FILE. Downloading it as a zip file will prevent the git commands from working properly.
 
-For a refresher on git, feel free to refer back to you previous [GitHub Practice](https://github.com/auberonedu/github-intro.git).
+Instead, you will fork and clone this repository according using git. For a refresher on git, feel free to refer back to you previous [GitHub Practice](https://github.com/auberonedu/github-intro.git).
 
 Remember to fork before cloning! MAKE MANY COMMITS AS YOU WORK! 
 
